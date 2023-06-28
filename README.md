@@ -1,0 +1,2 @@
+# gitcd
+sample yaml deployment
